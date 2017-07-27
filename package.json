@@ -1,0 +1,13 @@
+{
+  "name": "docker-udp-test",
+  "version": "1.0.0",
+  "description": "Test UDP send by Node.js application on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "udp-server.js",
+  "scripts": {
+    "start": "node udp-server.js"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
