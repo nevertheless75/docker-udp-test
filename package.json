@@ -8,6 +8,7 @@
     "start": "node udp-server.js"
   },
   "dependencies": {
+    "command-line-args": "^4.0.6",
     "dgram": "^1.0.1"
   }
 }
